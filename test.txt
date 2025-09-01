@@ -5,7 +5,3 @@ Salam be developer 1
 Branch shomare 1
 
 Taghire dev shomare 2
-
-today is labor day
-
-edited in Git
