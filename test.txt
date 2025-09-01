@@ -5,6 +5,3 @@ Salam be developer 1
 Branch shomare 1
 
 Taghire dev shomare 2
-
-
-information from anotherbranch updatedff
